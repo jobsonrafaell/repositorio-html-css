@@ -1,0 +1,29 @@
+@charset UTF-8
+
+body{
+    background-color: white;
+}
+
+
+main{
+    margin: auto;
+    background-color: rgb(205, 226, 178);
+    border-radius: 50px;
+    width: 85%;
+}
+h1{
+    color: rgb(42, 58, 22);
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+    padding: 15px;
+}
+h2{
+    text-align:left;
+    padding: 20px;
+}
+aside{
+    position: fixed;
+}
